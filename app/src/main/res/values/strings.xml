@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="counter_one">\n</string>
+    <string name="counter_two" />
+    <string name="counter_three" />
+    <string name="btn_default_text" />
+</resources>
